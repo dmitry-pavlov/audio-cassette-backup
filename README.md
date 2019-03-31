@@ -19,7 +19,10 @@ Audio Cassette Backup application allows you to easily create a high quality bac
 - Cross-platform: Linux, iOS, Android, Windows, and many more operating systems supported! 
 
 ## Contribute! 
-The project is open for joining one day only April 1st, 2019. All requests after this date won't be accepted. Hurry up! 
+The project is open for joining one day only - April 1st, 2019. All requests after this date won't be accepted. Hurry up! 
+
+## Support Development
+If you like the project but have no time or skills to contribute as a software developer please consider supporting it by [buying a coffee](https://www.buymeacoffee.com/dmitrypavlov). We will convert #C0FFEE to #C0DE. Thank you for your support! 
 
 ## Links
 [Implementation of Audio Steganogarphy Using C#](https://www.academia.edu/25223280/Implementation_of_Audio_Steganogarphy_Using_C_)

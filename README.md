@@ -21,4 +21,9 @@ Audio Cassette Backup application allows you to easily create a high quality bac
 ## Contribute! 
 The project is open for joining one day only April 1st, 2019. All requests after this date won't be accepted. Hurry up! 
 
-
+## Links
+[Implementation of Audio Steganogarphy Using C#](https://www.academia.edu/25223280/Implementation_of_Audio_Steganogarphy_Using_C_)
+// International Journal of Technology Management & Humanities (IJTMH), e-ISSN: 2454 – 566X, Volume 1, Issue 2, (September 2015)
+- Vinay Yadav (Asst. Professor/Department of CSE/SR Group of Institutions, Lucknow)
+- Sumeet Gupta (Asst. Professor /Department of CSE/SR Group of Institutions, Lucknow)
+- Vijay Jaiswal (Research Scholar /Department of CSE/UPTU, Lucknow)

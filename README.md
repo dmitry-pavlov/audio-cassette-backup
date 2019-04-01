@@ -2,7 +2,7 @@
 Audio Cassette Backup application allows you to easily create a high quality backup of your code, photos, or important documents on an audio cassette using tape recorder. 
 
 ## Contribute! 
-The project is open for joining one day only - April 1st, 2019. All requests after this date won't be accepted. Hurry up! 
+The project is open for joining one day only - [April 1st, 2019](https://github.com/dmitry-pavlov/audio-cassette-backup/blob/master/src/AudioCassetteBackup/Program.cs). All requests after this date won't be accepted. Hurry up! 
 
 ## Support Development
 If you like the project but have no time or skills to contribute as a software developer please consider supporting it by [buying a coffee](https://www.buymeacoffee.com/dmitrypavlov). We will convert #C0FFEE to #C0DE. Thank you for your support! 

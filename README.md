@@ -5,7 +5,7 @@ Audio Cassette Backup application allows you to easily create a high quality bac
 - Dmitry Pavlov | also knows as the "[Coding Machine](http://coding-machine.net/)"
   - feel free to drop me a line at [me@dmitry-pavlov.com](mailto:me@dmitry-pavlov.com)
 
-NOTE: The project is open for joining one day only - [April 1st, 2022](https://github.com/dmitry-pavlov/audio-cassette-backup/blob/master/src/AudioCassetteBackup/Program.cs). All requests after this date won't be accepted. Hurry up! (:  
+NOTE: The project is open for joining one day only - [April 1st, 2023](https://github.com/dmitry-pavlov/audio-cassette-backup/blob/master/src/AudioCassetteBackup/Program.cs). All requests after this date won't be accepted. Hurry up! (:  
 
 ## Support Development
 If you like the project but have no time or skills to contribute as a software developer please consider supporting it by [buying a coffee](https://www.buymeacoffee.com/dmitrypavlov). We will convert #C0FFEE to #C0DE. Thank you for your support! 
